@@ -1,0 +1,20 @@
+﻿  Block.cpp
+C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\OurSQL\Block.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BlockManager.cpp
+C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\OurSQL\Block.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  IntField.cpp
+  Row.cpp
+  Table.cpp
+C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\OurSQL\Table.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\OurSQL\Block.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\OurSQL\Table.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\OurSQL\Block.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     Creating library C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\Release\OurSQL.lib and object C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\Release\OurSQL.exp
+  Generating code
+C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\OurSQL\Block.cpp(55): warning C4715: 'Block::readRows': not all control paths return a value
+  680 of 693 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    337 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OurSQL.vcxproj -> C:\Users\dimpd\OneDrive\Documents\GitHub\Personal\OurSQL\Release\OurSQL.exe
